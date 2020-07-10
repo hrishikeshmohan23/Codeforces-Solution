@@ -14,6 +14,6 @@ int main()
 		else
 		cout<<"OK\n";
 		m[s]++;
-		
+
 	}
 }
